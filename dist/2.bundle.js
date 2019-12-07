@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{1250:function(o,c,n){"use strict";var t=(0,n(1260).createAction)("myApp/OPEN_MODAL");console.log("Action type: ",t.type);var e=t("contactForm");console.log("Action object: ",e)}}]);
