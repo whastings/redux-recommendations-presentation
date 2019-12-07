@@ -18,6 +18,11 @@ a:visited {
   min-height: 100%;
 }
 
+.spectacle-slide {
+  flex-direction: column;
+  overflow: auto !important;
+}
+
 .code-runner-button {
   background-color: transparent;
   border-color: transparent;
